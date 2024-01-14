@@ -1,0 +1,6 @@
+[submodule "TicTacToe-FrontEnd"]
+	path = TicTacToe-FrontEnd
+	url = https://github.com/khangluong2004/TicTacToe-FrontEnd.git
+[submodule "TicTacToe-Backend"]
+	path = TicTacToe-Backend
+	url = https://github.com/khangluong2004/TicTacToe-Backend.git
