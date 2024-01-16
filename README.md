@@ -18,3 +18,5 @@ Tech-stack: Serverless architecture
 
 ## Progress:
 1. Finished the bare UI for playing with Front-end + Deal with AWS Amplify
+2. Set up AWS Cognito + Connect it to AWS Amplify
+3. Set up AWS Lambda + AWS API GateWay, and connect the AWS Lambda to AWS API Gateway, setting AWS Cognito as an authorizer
