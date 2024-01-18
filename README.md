@@ -5,9 +5,7 @@ This is because I'm using AWS Free Tier, and there is a limit on when it should 
 
 ### Project Application link: https://main.d3t7na3y4yzra6.amplifyapp.com/
 
-Username: khangluong2004@gmail.com
-
-Password: 12345678aA!
+TODO: Add credentials here after recording
 
 ## Project Plan:
 A full-stack web app for user to practice tic-tac-toe on a 4x4 grid (so they have a chance to win)
