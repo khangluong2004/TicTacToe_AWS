@@ -11,13 +11,17 @@ Tech-stack: Serverless architecture
 3. Back-end: Python (AWS Lambda)
 4. API Networking: AWS Gateway
 
+![Alt text](architecture.png)
+
 ## Project aims:
 1. Familiarize myself with Cloud computing, Serverless architecture and Hosting
 2. Have fun working on classic minimax searching algorithm on the bot
 3. Make a not-too-serious app that my friends (who are too lazy to do all the set up) could have a bit of fun straight away
 
 ## Progress:
-1. Finished the bare UI for playing with Front-end + Deal with AWS Amplify
+1. Finished the bare UI for playing with Front-end + Test AWS Amplify
 2. Set up AWS Cognito + Connect it to AWS Amplify
 3. Set up AWS Lambda + AWS API GateWay, and connect the AWS Lambda to AWS API Gateway, setting AWS Cognito as an authorizer
 4. Finish botLogic (not cached, since relatively fast enough) and add to AWS Lambda
+5. Fix bugs, update both Backend and Frontend, and connect Frontend to Backend
+6. TODO Final: Deploy to Amplify + complete documentation + record presentation
