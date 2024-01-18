@@ -1,4 +1,4 @@
-# TicTacToe 4x4 Bot Fully Deployed
+# TicTacToe 4x4 Bot (Fully Deployed)
 
 ### DO NOT use the application for more than few (5 - 10) times for testing.
 This is because I'm using AWS Free Tier, and there is a limit on when it should stop being free. Please only use the demo link for limited testing purpose (no sharing with friends, etc.). Sorry for the inconvenience :(
