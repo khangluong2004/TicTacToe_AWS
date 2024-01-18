@@ -3,9 +3,13 @@
 ### DO NOT use the application for more than few (5 - 10) times for testing.
 This is because I'm using AWS Free Tier, and there is a limit on when it should stop being free. Please only use the demo link for limited testing purpose (no sharing with friends, etc.). Sorry for the inconvenience :(
 
+### Presentation Record: https://youtu.be/RdgV9wwlrPw
+
 ### Project Application link: https://main.d3t7na3y4yzra6.amplifyapp.com/
 
-TODO: Add credentials here after recording
+Username: khangluong2004@gmail.com
+
+Password: 12345678aA!
 
 ## Project Plan:
 A full-stack web app for user to practice tic-tac-toe on a 4x4 grid (so they have a chance to win)
