@@ -35,3 +35,6 @@ The repos for Backend and Frontend are included separately as submodules in this
 4. Finish botLogic (not cached, since relatively fast enough) and add to AWS Lambda
 5. Fix bugs, update both Backend and Frontend, and connect Frontend to Backend
 6. Deploy to Amplify + complete documentation + record presentation
+
+## Useful resources
+1. A rough guide on how to build a serverless web application (not too good for specifics, more of general view): https://aws.amazon.com/getting-started/hands-on/build-serverless-web-app-lambda-apigateway-s3-dynamodb-cognito/ 
